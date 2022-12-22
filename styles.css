@@ -1,4 +1,4 @@
-.main{
+div.main{
     width: 200px;
     background-color: purple;
     border-left-color: green;
@@ -7,6 +7,5 @@
     font-size: 20px;
 }
 #heading{
-    /* font-size: 20px; */
     color: white;
 }
